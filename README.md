@@ -5,7 +5,7 @@
 
 Desenvolvedor de Software com foco em **Inteligência Artificial, Machine Learning e Arquitetura de Sistemas Full-Stack e Mobile**. Combino fundamentação matemática e implementação de modelos de Redes Neurais e Aprendizado de Máquina com engenharia de software robusta para construir, integrar e colocar aplicações escaláveis em produção.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yuri-fernandes-oliveira)
 [![Portfólio SafeNutri](https://img.shields.io/badge/SafeNutri_em_Produção-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://safenutri.com.br)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HunterMando)
 
