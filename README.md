@@ -2,7 +2,7 @@
 
 - 🚀 Software & AI Engineer
 - 🎓 Formando em Análise e Desenvolvimento de Sistemas pelo IFTM (Brasil)
-- 📫 Contato: [yuri.fernandes2003@gmail.com](mailto:yuri.fernandes2003@gmail.com) ou pelo meu [LinkedIn](https://www.linkedin.com/)
+- 📫 Contato: [yurifernandes2003@gmail.com](mailto:yurifernandes2003@gmail.com) ou pelo meu [LinkedIn](www.linkedin.com/in/yuri-fernandes-oliveira)
 
 ### Main skills (AI & Backend):
 
